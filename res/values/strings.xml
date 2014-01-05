@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">UnitConverter</string>
+    <string name="app_name">Unit Converter</string>
+    <string name="Length">Length</string>
+    <string name="Weight">Weight</string>
+    <string name="Volume">Volume</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Speed">Speed</string>
+    <string name="Time">Time</string>
+    <string name="Area">Area</string>
+    <string name="Pressure">Pressure</string>
+    <string name="Illuminance">Illuminance</string>
+    <string name="Frequency">Frequency</string>
+    <string name="Angle">Angle</string>
+    <string name="BitsBytes">Bits &amp; Bytes</string>
+    <string name="Density">Density</string>
+    <string name="Force">Force</string>
+    <string name="Fuel">Fuel</string>
+    <string name="Consumption">Consumption</string>
+    <string name="Currency">Currency</string>
+    <string name="Flow">Flow</string>
+    <string name="Power">Power</string>
+    <string name="Other">Other</string>
 </resources>
