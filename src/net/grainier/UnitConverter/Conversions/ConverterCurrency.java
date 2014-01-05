@@ -43,10 +43,9 @@ public class ConverterCurrency implements ConverterInterface {
         if (this.inputUnit == this.outputUnit) {
             d = this.inputValue;
             return d;
-        } else {
-            d = this.inputValue / unitField[this.inputUnit] * unitField[this.outputUnit];
-            return d;
         }
+        d = this.inputValue / unitField[this.inputUnit] * unitField[this.outputUnit];
+        return d;
     }
 
     public void setOutputUnit(int paramInt) {

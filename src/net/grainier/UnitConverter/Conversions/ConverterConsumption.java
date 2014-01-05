@@ -40,18 +40,16 @@ public class ConverterConsumption implements ConverterInterface {
             if ((this.outputUnit == 0) || (this.outputUnit == 1) || (this.outputUnit == 3) || (this.outputUnit == 4)) {
                 d = this.inputValue / poljeVolumenNaRazdaljo[this.inputUnit] * poljeVolumenNaRazdaljo[this.outputUnit];
                 return d;
-            } else {
-                d = 1.0D / (this.inputValue / poljeVolumenNaRazdaljo[this.inputUnit]) * poljeRazdaljaNaVolumen[this.outputUnit];
-                return d;
             }
+            d = 1.0D / (this.inputValue / poljeVolumenNaRazdaljo[this.inputUnit]) * poljeRazdaljaNaVolumen[this.outputUnit];
+            return d;
         }
         if ((this.outputUnit == 0) || (this.outputUnit == 1) || (this.outputUnit == 3) || (this.outputUnit == 4)) {
             d = 1.0D / (this.inputValue / poljeRazdaljaNaVolumen[this.inputUnit]) * poljeVolumenNaRazdaljo[this.outputUnit];
             return d;
-        } else {
-            d = this.inputValue / poljeRazdaljaNaVolumen[this.inputUnit] * poljeRazdaljaNaVolumen[this.outputUnit];
-            return d;
         }
+        d = this.inputValue / poljeRazdaljaNaVolumen[this.inputUnit] * poljeRazdaljaNaVolumen[this.outputUnit];
+        return d;
     }
 
     public void setOutputUnit(int paramInt) {
