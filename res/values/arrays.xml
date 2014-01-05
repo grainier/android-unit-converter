@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listNumPad">
+        <item>Calculator/Classic</item>
+        <item>Phonepad</item>
+    </string-array>
+    <string-array name="listNumPadValues">
+        <item>calc</item>
+        <item>phone</item>
+    </string-array>
+    <string-array name="listDecSpac">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="listDecSpacValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="volume_array">
+        <item>barrels (oil)</item>
+        <item>cm&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>cup (imp)</item>
+        <item>cup (metric)</item>
+        <item>cup (US)</item>
+        <item>dl</item>
+        <item>fluid ounce (imp)</item>
+        <item>fluid ounce (US)</item>
+        <item>ft&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>gallons (dry)</item>
+        <item>gallons (imp)</item>
+        <item>gallons (liq)</item>
+        <item>hectoliters</item>
+        <item>in&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>liter</item>
+        <item>m&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>ml</item>
+        <item>mm&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>pints</item>
+        <item>tablespoon</item>
+        <item>teaspoon</item>
+        <item>yd&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+    </string-array>
+    <string-array name="lenght_array">
+        <item>cm</item>
+        <item>ft</item>
+        <item>in</item>
+        <item>km</item>
+        <item>light-year</item>
+        <item>light-second</item>
+        <item>m</item>
+        <item>mile</item>
+        <item>mile (nautical)</item>
+        <item>mm</item>
+        <item>yard</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>carat</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>lb</item>
+        <item>lb (troy)</item>
+        <item>oz</item>
+        <item>oz (troy)</item>
+        <item>stone</item>
+        <item>tablespoon</item>
+        <item>teaspoon</item>
+        <item>ton</item>
+        <item>ton (long)</item>
+        <item>ton (short)</item>
+    </string-array>
+    <string-array name="temperature_array">
+        <item>Celsius</item>
+        <item>Farenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+    </string-array>
+    <string-array name="speed_array">
+        <item>cm/min</item>
+        <item>cm/s</item>
+        <item>ft/h</item>
+        <item>ft/min</item>
+        <item>ft/s</item>
+        <item>in/min</item>
+        <item>in/s</item>
+        <item>km/h</item>
+        <item>km/s</item>
+        <item>knots</item>
+        <item>mach</item>
+        <item>m/h</item>
+        <item>m/min</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>mph (nautical)</item>
+        <item>mi/min</item>
+        <item>mi/s</item>
+        <item>speed of light</item>
+        <item>yd/h</item>
+        <item>yd/min</item>
+        <item>yd/s</item>
+    </string-array>
+    <string-array name="time_array">
+        <item>century</item>
+        <item>day</item>
+        <item>decade</item>
+        <item>hour</item>
+        <item>microsecond</item>
+        <item>millenium</item>
+        <item>millisecond</item>
+        <item>minute</item>
+        <item>month (common)</item>
+        <item>quarter (common)</item>
+        <item>second</item>
+        <item>week</item>
+        <item>year (common)</item>
+    </string-array>
+    <string-array name="pressure_array">
+        <item>atmosphere</item>
+        <item>bar</item>
+        <item>cmHg</item>
+        <item>cmH&lt;small>&lt;sub>2&lt;/sub>&lt;/small>O</item>
+        <item>ftH&lt;small>&lt;sub>2&lt;/sub>&lt;/small>O</item>
+        <item>hPa</item>
+        <item>inH&lt;small>&lt;sub>2&lt;/sub>&lt;/small>O</item>
+        <item>inHg</item>
+        <item>kgf/cm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>kgf/m&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>kN/m&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>kN/mm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>kPa</item>
+        <item>ksi</item>
+        <item>MN/m&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>MN/mm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>mH&lt;small>&lt;sub>2&lt;/sub>&lt;/small>O</item>
+        <item>milibar</item>
+        <item>mmHg</item>
+        <item>mmH&lt;small>&lt;sub>2&lt;/sub>&lt;/small>O</item>
+        <item>mPa</item>
+        <item>N/cm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>N/m&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>N/mm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>Pa</item>
+        <item>psf</item>
+        <item>psi</item>
+        <item>pdl/sq ft</item>
+        <item>tf/cm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>tf/m&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>torr</item>
+    </string-array>
+    <string-array name="illuminance_array">
+        <item>flame</item>
+        <item>foot-candle</item>
+        <item>lux (lm/m&lt;small>&lt;sup>2&lt;/sup>&lt;/small>)</item>
+        <item>phot(lm/cm&lt;small>&lt;sup>2&lt;/sup>&lt;/small>)</item>
+    </string-array>
+    <string-array name="area_array">
+        <item>acre</item>
+        <item>are</item>
+        <item>circular inch</item>
+        <item>cm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>hectare</item>
+        <item>km&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>m&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>mm&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+        <item>sq ft</item>
+        <item>sq in</item>
+        <item>sq mi</item>
+        <item>yd&lt;small>&lt;sup>2&lt;/sup>&lt;/small></item>
+    </string-array>
+    <string-array name="frequency_array">
+        <item>centihertz</item>
+        <item>cycle/second</item>
+        <item>gigahertz</item>
+        <item>hertz</item>
+        <item>kilohertz</item>
+        <item>megahertz</item>
+        <item>microhertz</item>
+        <item>milihertz</item>
+    </string-array>
+    <string-array name="angle_array">
+        <item>arcminute</item>
+        <item>arcsecond</item>
+        <item>circle</item>
+        <item>degree</item>
+        <item>gon</item>
+        <item>grad</item>
+        <item>mil (Nato)</item>
+        <item>mil (Soviet Union)</item>
+        <item>mil (Sweden)</item>
+        <item>octant</item>
+        <item>quadrant</item>
+        <item>radian</item>
+        <item>revolution</item>
+        <item>sextant</item>
+        <item>sign</item>
+        <item>turn</item>
+    </string-array>
+    <string-array name="bits_array">
+        <item>bits</item>
+        <item>bytes</item>
+        <item>kilobits [Kb]</item>
+        <item>kilobytes [KB]</item>
+        <item>megabits [Mb]</item>
+        <item>megabytes [MB]</item>
+        <item>gigabits [Gb]</item>
+        <item>gigabytes [GB]</item>
+        <item>terabits [Tb]</item>
+        <item>terabytes [TB]</item>
+        <item>petabits [Pb]</item>
+        <item>petabytes [PB]</item>
+        <item>exabits [Eb]</item>
+        <item>exabytes [EB]</item>
+    </string-array>
+    <string-array name="density_array">
+        <item>gr/gallon (UK)</item>
+        <item>gr/gallon (US)</item>
+        <item>g/cm&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>g/L</item>
+        <item>g/mm</item>
+        <item>kg/m&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>kg/L</item>
+        <item>lb/in&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>lb/ft&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>lb/gallon (UK)</item>
+        <item>lb/gallon (US)</item>
+        <item>Mg/m&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>mg/mL</item>
+        <item>mg/L</item>
+        <item>oz/in&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>oz/gallon (UK)</item>
+        <item>oz/gallon (US)</item>
+        <item>slug/ft&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>t/m&lt;small>&lt;sup>3&lt;/sup>&lt;/small></item>
+        <item>t/yd&lt;small>&lt;sup>3&lt;/sup>&lt;/small> (UK)</item>
+        <item>t/yd&lt;small>&lt;sup>3&lt;/sup>&lt;/small> (US)</item>
+    </string-array>
+    <string-array name="force_array">
+        <item>dyne</item>
+        <item>kgf</item>
+        <item>kN</item>
+        <item>kip</item>
+        <item>lbf</item>
+        <item>MN</item>
+        <item>N</item>
+        <item>pdl</item>
+        <item>sthene</item>
+        <item>tnf</item>
+        <item>tnf (UK)</item>
+        <item>tnf (US)</item>
+    </string-array>
+    <string-array name="consumption_array">
+        <item>gallons/100mi (UK)</item>
+        <item>gallons/100mi (US)</item>
+        <item>km/L</item>
+        <item>L/100 km</item>
+        <item>L/km</item>
+        <item>mpg (UK)</item>
+        <item>mpg (US)</item>
+    </string-array>
+    <string-array name="currency_array">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+    <string-array name="flow_array">
+        <item>cm&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/h</item>
+        <item>cm&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/min</item>
+        <item>cm&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/s</item>
+        <item>ft&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/h</item>
+        <item>ft&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/min</item>
+        <item>ft&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/s</item>
+        <item>gallon (imp)/day</item>
+        <item>gallon (imp)/h</item>
+        <item>gallon (imp)/min</item>
+        <item>in&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/h</item>
+        <item>in&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/min</item>
+        <item>in&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/s</item>
+        <item>L/h</item>
+        <item>L/min</item>
+        <item>L/s</item>
+        <item>m&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/h</item>
+        <item>m&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/min</item>
+        <item>m&lt;small>&lt;sup>3&lt;/sup>&lt;/small>/s</item>
+    </string-array>
+    <string-array name="power_array">
+        <item>HP (intl.)</item>
+        <item>HP (electric)</item>
+        <item>HP (metric)</item>
+        <item>joule/hour</item>
+        <item>joule/minute</item>
+        <item>kilojoule/hour</item>
+        <item>kilojoule/minute</item>
+        <item>kW</item>
+        <item>mW</item>
+        <item>W</item>
+    </string-array>
+</resources>
