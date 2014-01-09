@@ -1,7 +1,7 @@
 package net.grainier.UnitConverter.Conversions;
 
 public class ConverterCurrency implements ConverterInterface {
-    public static long casNalaganja;
+    public static long loadTime;
     public static double[] unitField;
     int outputUnit;
     int inputUnit;
@@ -35,7 +35,7 @@ public class ConverterCurrency implements ConverterInterface {
         arrayOfDouble[23] = 1.0D;
         arrayOfDouble[24] = 1.0D;
         unitField = arrayOfDouble;
-        casNalaganja = 0L;
+        loadTime = 0L;
     }
 
     public double getOutputValue() {
